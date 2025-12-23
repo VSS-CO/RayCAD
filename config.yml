@@ -1,0 +1,22 @@
+# RayCAD Configuration
+# Format: alias: command
+
+# Tools
+d: draw
+w: wall
+e: erase
+a: array
+f: floor
+
+# Quick Actions
+cls: clear
+phys: physics
+box: shape cube
+cyl: shape cylinder
+sph: shape sphere
+
+# Macros
+stairs: cmd stairs
+tower: cmd tower
+red: color red
+blue: color blue
